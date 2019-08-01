@@ -6,5 +6,5 @@
 
 [安然邮件数据清洗](./data_preprocess.md)
 
-[导入Python模块的几种方法](.import-module.md)
+[导入Python模块的几种方法](import-module.md)
 
